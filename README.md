@@ -7,7 +7,7 @@ A simple todo list web app
 
 ## Setup/Installation Requirements
 * git clone https://github.com/ericwafula/Goals.git
-* cd into/your/path/to/frames
+* cd into/your/path/to/Goals
 * code . for vscode or atom . for Atom
 * npm start / ng serve --open / ng s -o
 
